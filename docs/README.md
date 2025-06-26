@@ -1,1 +1,1 @@
-# Docs folder for concepts, sketches, and design references
+![SafeAirSanty Capsule Diagram](docs/SafeAirSanty.png)
