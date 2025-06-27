@@ -1,3 +1,5 @@
+
+
 # ✈️ SafeAirSanty
 
 **SafeAirSanty** is a visionary AI-powered aviation safety system designed to transform how we think about emergency preparedness in the skies. Rooted in purpose and born from innovation, this project reimagines aircraft safety by integrating intelligent escape capsules into commercial planes.
